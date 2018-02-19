@@ -8,4 +8,4 @@ Learning Bandits!
 
 ## Notebooks
 
-* [Major Algorithms and Regret Analysis](https://nbviewer.jupyter.org/github/myuuuuun/bandit/blob/master/test_algorithms.ipynb)
+* [Major Algorithms and Regret Analysis](https://nbviewer.jupyter.org/github/myuuuuun/bandit/blob/master/Notebooks/test_algorithms.ipynb)
